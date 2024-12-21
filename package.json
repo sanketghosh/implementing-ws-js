@@ -1,0 +1,12 @@
+{
+  "name": "implementing ws in javascript",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Implementing protocol from scratch in JavaScript/Node.js to learn how does it work internally",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "node --experimental-strip-types --watch src/main.ts"
+  },
+  "author": "github.com/sanketghosh",
+  "license": "MIT"
+}
